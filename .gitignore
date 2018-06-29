@@ -3,3 +3,8 @@ out
 .idea/
 algs4.jar
 *.iml
+
+// office *.java
+
+LineSegment.java
+
