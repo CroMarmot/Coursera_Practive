@@ -1,0 +1,14 @@
+out
+.DS_Store
+.idea/
+algs4.jar
+*.iml
+
+// official *.java
+
+LineSegment.java
+KdTreeGenerator.java
+KdTreeVisualizer.java
+NearestNeighborVisualizer.java
+RangeSearchVisualizer.java
+
