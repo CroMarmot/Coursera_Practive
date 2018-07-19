@@ -4,7 +4,11 @@ out
 algs4.jar
 *.iml
 
-// office *.java
+// official *.java
 
 LineSegment.java
+KdTreeGenerator.java
+KdTreeVisualizer.java
+NearestNeighborVisualizer.java
+RangeSearchVisualizer.java
 
